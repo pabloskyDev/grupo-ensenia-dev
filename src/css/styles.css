@@ -7,3 +7,16 @@
 }
 
 .bg-nav { background-color: #4D4C7D;}
+.bg-contact { background-color: #4b667b;}
+.bg-estudiantes { background-color:#812E95;}
+.bg-niveles { background-color:#06b7d9;}
+.bg-somos { background-color:#FF8B01;}
+.bg-colaboradores { background-color:#FAEEE9;}
+.bg-canales { background-color:#FF5703;}
+
+.color-azul { color:#06b7d9 !important;}
+.color-morado { color:#812E95 !important;}
+.color-gris { color:#4b667b !important;}
+.color-naranja { color:#FF5703 !important;}
+.color-amarillo  { color:#FF8B01 !important;}
+.color-rojo { color: #f00 !important;}
