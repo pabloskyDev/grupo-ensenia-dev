@@ -4,16 +4,16 @@
     </div>
     <div>
       <a href="https://www.facebook.com/Academiagrupoensena" class="me-4" target="_blank">
-        <img src="src/img/iconos/FaceBookIcono.png" alt="" id="icono">
+        <img src="../src/img/iconos/FaceBookIcono.png" alt="" class="icono">
       </a>
       <a href="https://www.youtube.com/channel/UCTPSNqkxu2zpYMtz4L0GJ2g/videos" class="me-4" target="_blank" >
-        <img src="src/img/iconos/youtubeIcono.png" alt="" id="icono">
+        <img src="../src/img/iconos/youtubeIcono.png" alt="" class="icono">
       </a>
       <a href="https://wa.me/573244319079" class="me-4" target="_blank" >
-        <img src="src/img/iconos/waspaIcono.png" alt="" id="icono">
+        <img src="../src/img/iconos/waspaIcono.png" alt="" class="icono">
       </a>
       <a href="https://www.instagram.com/educ.incluyente/?hl=es" class="me-4 " target="_blank" >
-        <img src="src/img/iconos/InstagramIcono.png" alt="" id="icono">
+        <img src="../src/img/iconos/InstagramIcono.png" alt="" class="icono">
       </a>
     </div>
 </section>
@@ -32,9 +32,9 @@
         </div>
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <h6 class="text-uppercase fw-bold mb-4">Products</h6>
-          <p><a href="vista/canales.php" class="text-reset">Clases en vivo</a></p>
-          <p><a href="vista/canales.php" class="text-reset">Actividades</a></p>
-          <p><a href="vista/canales.php" class="text-reset">videos</a></p>
+          <p><a href="../vista/canales.php" class="text-reset">Clases en vivo</a></p>
+          <p><a href="../vista/canales.php" class="text-reset">Actividades</a></p>
+          <p><a href="../vista/canales.php" class="text-reset">videos</a></p>
         </div>
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
           <h6 class="text-uppercase fw-bold mb-4">Useful links</h6>
@@ -56,5 +56,5 @@
     </div>
 </section>
 <div class="text-center p-4" style="background-color: rgba(8, 8, 8, 0.308);">
-    <span>© 2022 Copyright: <a class="text-reset fw-bold" href="./index.html">- GrupoEnseña.com</a></span>
+  <span>© 2022 Copyright: <a class="text-reset fw-bold" href="../vista/index.php">- GrupoEnseña.com</a></span>
 </div>

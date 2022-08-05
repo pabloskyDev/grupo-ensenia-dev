@@ -11,7 +11,7 @@
 .bg-estudiantes { background-color:#812E95;}
 .bg-niveles { background-color:#06b7d9;}
 .bg-somos { background-color:#FF8B01;}
-.bg-colaboradores { background-color:#FAEEE9;}
+.bg-colaboradores { background-color:#6D8B74;}
 .bg-canales { background-color:#FF5703;}
 
 .color-azul { color:#06b7d9 !important;}
@@ -20,3 +20,12 @@
 .color-naranja { color:#FF5703 !important;}
 .color-amarillo  { color:#FF8B01 !important;}
 .color-rojo { color: #f00 !important;}
+
+.icono {
+    width: 5%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+}
