@@ -17,7 +17,7 @@
         <?php include 'templates/header.php';?>
     </nav>
 
-    <footer class="text-center text-lg-start bg-nav text-muted ">
+    <footer class="text-center text-lg-start bg-nav text-muted">
         <?php include 'templates/footer.php';?>
     </footer>
 

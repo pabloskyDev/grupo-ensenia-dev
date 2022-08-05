@@ -10,12 +10,12 @@
     </button>
     <div class="collapse navbar-collapse col-md-8 col-lg-8" id="navbarPrincipal">
         <ul class="navbar-nav col-12 d-flex justify-content-end pe-4 fs-5">
-            <li class="col-2"><a class="nav-link text-white text-center" href="niveles.html">Niveles Educativos</a></li>
-            <li class="col-2"><a class="nav-link text-white text-center" href="colaboradores.html">Colaboradores</a></li>
-            <li class="col-2"><a class="nav-link text-white text-center" href="canales.html">Canales</a></li>
-            <li class="col-2"><a class="nav-link text-white text-center" href="quienessomos.html">Quienes Somos</a></li>
-            <li class="col-2"><a class="nav-link text-white text-center" href="estudiantes.html">Estudiantes</a></li>
-            <li class="col-2"><a class="nav-link text-white text-center" href="contactanos.html">Contáctanos</a></li>
+            <li class="col-2"><a class="nav-link text-white text-center" href="vista/niveles.php">Niveles</a></li>
+            <li class="col-2"><a class="nav-link text-white text-center" href="vista/colaboradores.php">Colaboradores</a></li>
+            <li class="col-2"><a class="nav-link text-white text-center" href="vista/canales.php">Canales</a></li>
+            <li class="col-2"><a class="nav-link text-white text-center" href="vista/somos.php">Quienes somos</a></li>
+            <li class="col-2"><a class="nav-link text-white text-center" href="vista/estudiantes.php">Estudiantes</a></li>
+            <li class="col-2"><a class="nav-link text-white text-center" href="vista/contactanos.php">Contáctanos</a></li>
         </ul>
     </div>
 </div>
