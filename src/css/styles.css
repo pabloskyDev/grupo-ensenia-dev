@@ -1,0 +1,9 @@
+*,
+*::after,
+*::before {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.bg-nav { background-color: #4D4C7D;}
