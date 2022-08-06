@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Arima', sans-serif;
+}
+
 .bg-nav { background-color: #4D4C7D;}
 .bg-contact { background-color: #4b667b;}
 .bg-estudiantes { background-color:#812E95;}
@@ -20,6 +24,10 @@
 .color-naranja { color:#FF5703 !important;}
 .color-amarillo  { color:#FF8B01 !important;}
 .color-rojo { color: #f00 !important;}
+
+.header-logo {
+    width: 60px;
+}
 
 .icono {
     width: 5%;
